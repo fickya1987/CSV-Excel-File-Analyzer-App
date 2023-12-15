@@ -1,12 +1,14 @@
 # CSV/Excel File Analyzer App
 
 ## Overview
-This application is a simple, intuitive tool for analyzing and visualizing data from CSV and Excel files. Built with Streamlit, it allows users to upload a data file, select columns, and generate basic visualizations such as line plots and histograms.
+This Streamlit application provides an intuitive interface for analyzing and visualizing data from CSV and Excel files. It now includes user authentication for added security and uses Plotly for interactive data visualization, offering a more dynamic and engaging user experience.
 
 ## Features
+- **User Authentication:** Secure login system to restrict access to authorized users.
+- **Interactive Data Visualization:** Utilizes Plotly for creating interactive line plots, bar charts, scatter plots, and histograms.
 - **File Upload**: Users can upload CSV or Excel files.
 - **Column Selection**: Interactive selection of two columns from the uploaded file for visualization.
-- **Data Visualization**: Generates line plots and histograms based on the selected data columns.
+- **Plotly Integration:** Offers enhanced, interactive charts with hover-over details for a deeper data exploration.
 - **Error Handling**: Robust error handling for file reading and data processing.
 
 ## Installation
