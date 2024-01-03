@@ -28,7 +28,7 @@ Ensure you have Python(3.11.6) installed on your system. The application relies 
 1. **Clone the Repository**
 
 ```bash
-git clone https://cplusoft-org@dev.azure.com/cplusoft-org/statistical-analysic-streamlit-local/_git/statistical-analysic-streamlit-local
+git clone https://github.com/Kheem-Dh/CSV-Excel-File-Analyzer-App.git
 cd statistical-analysic-streamlit-local
 ```
 
